@@ -70,6 +70,7 @@ const config: Config = {
         indexPages: true,
         docsRouteBasePath: ["docs", "api-docs"],
         docsDir: ["content/docs", "content/api-docs"],
+        blogDir: "content/blog",
         removeDefaultStemmer: true,
         removeDefaultStopWordFilter: true,
         explicitSearchResultPath: true,
