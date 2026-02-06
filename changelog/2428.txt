@@ -1,3 +1,0 @@
-```release-note:improvement
-website: switch to easyops-cn/docusaurus-search-local
-```
